@@ -22,25 +22,4 @@ Aqui está uma lista de alguns comandos úteis para trabalhar no terminal.
 - `rm`: Remove arquivos ou diretórios.
   - Exemplo: `rm file.txt` (remove o arquivo "file.txt").
 
-## Visualização de Conteúdo
-
-- `cat`: Exibe o conteúdo de um arquivo.
-  - Exemplo: `cat file.txt` (exibe o conteúdo do arquivo "file.txt").
-- `less`: Exibe o conteúdo de um arquivo paginado.
-  - Exemplo: `less file.txt` (exibe o conteúdo do arquivo "file.txt" com rolagem).
-
-## Gerenciamento de Processos
-
-- `ps`: Lista os processos em execução.
-- `kill`: Encerra um processo.
-  - Exemplo: `kill PID` (substitua "PID" pelo ID do processo).
-
-## Outros Comandos Úteis
-
-- `grep`: Pesquisa por padrões em arquivos.
-- `find`: Localiza arquivos e diretórios.
-- `chmod`: Altera as permissões de um arquivo ou diretório.
-
-Lembre-se de consultar a documentação ou utilizar `man` para obter mais informações sobre cada comando.
-
 Divirta-se explorando o terminal! 🎉
